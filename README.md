@@ -28,7 +28,7 @@ All data processing and machine learning tasks are performed using Google Colab.
 #### Prerequisites
 
 - A Google account to access Google Colab.
-- Ensure your Raspberry Pi is collecting and saving data to `solar_data.csv`.
+- Ensure your Raspberry Pi is collecting and saving data to `solar_panel_data.csv`.
 
 #### Steps
 
